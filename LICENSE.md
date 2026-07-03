@@ -1,4 +1,4 @@
-# 
+# Gratuito QueryMind pacote. Baixe e instale com processamento em lote e código aberto — rápido, seguro e fácil de usar.
 
 
 
